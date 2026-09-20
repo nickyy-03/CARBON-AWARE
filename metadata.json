@@ -1,0 +1,6 @@
+{
+  "name": "EcoCloud AI - Carbon-Aware Workload Scheduler",
+  "description": "Real-time carbon-aware cloud data center workflow scheduling, intelligent resource optimization, predictive server telemetry, and multi-device synced green cloud analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
